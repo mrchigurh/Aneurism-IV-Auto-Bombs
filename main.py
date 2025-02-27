@@ -22,7 +22,6 @@ END_SCRIPT_KEY = config.get('settings', 'end_script_keybind')
 
 mainCodeEnabled = False
 
-start_time = time.perf_counter()
 user32 = ctypes.windll.user32
 imagesDirectory = os.path.join(os.getcwd(), "Images")
 
