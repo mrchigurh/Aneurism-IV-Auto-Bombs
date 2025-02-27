@@ -23,7 +23,7 @@ echo %start_keybind% to start/toggle, %end_script_keybind% to end.
 echo.
 echo You can use the config.ini file for more options
 echo.
-echo DISCORD IF NOT WORK: https://discord.gg/e8when9mwe
+echo DISCORD IF NOT WORK: https://discord.gg/6EUrpzEv3T
 
 pause
 
