@@ -1,5 +1,7 @@
 A Auto bomb solver for ANEURISM IV in python
 
+https://www.youtube.com/watch?v=nff9oqPKKgM
+
 1. have python installed
 2. maybe have pip installed if it doesnt auto download
 3. run start.bat file
