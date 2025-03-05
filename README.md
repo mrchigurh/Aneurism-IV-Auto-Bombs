@@ -1,12 +1,6 @@
-A Auto bomb solver for ANEURISM IV in python
+auto bomb solver for ANEURISM IV in python
 
-https://www.youtube.com/watch?v=nff9oqPKKgM
+[![Watch the video](https://img.youtube.com/vi/nff9oqPKKgM/0.jpg)](https://www.youtube.com/watch?v=nff9oqPKKgM)
 
-1. have python installed
-2. maybe have pip installed if it doesnt auto download
-3. run start.bat file
-
-only supports 1080p monitor / fullscreen for now. 
-
-you can use config.ini to change keybinds. 
-you can also use inspect identifier to be less sus but its very slow
+have python installed
+run start.bat file
